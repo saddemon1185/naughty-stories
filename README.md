@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| [![reincarnated  uchiha](https://github.com/saddemon1185.png?lenght=50width=50)](https://github.com/saddemon1185)|
+| [![reincarnated  uchiha](https://github.com/saddemon1185.png?lenght=40width=40)](https://github.com/saddemon1185)|
 |----|
 
 
@@ -23,11 +23,24 @@ Our AI features use random APIs to run, so sometimes they may be down but they a
 
 - Fork this repo by tapping  [here](https://github.com/saddemon1185/naughty-md/fork)
 
+ ## NAUGHTY-MD Deployment Methods
 
-## Pairing:
+### 1. FORK THIS REPO
+
+<a href='https://github.com/saddemon1185/naughty-md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 
-- ***`Get your Session Id` by  [`PAIRING CODE`](https://reincarnated-uchiha.odoo.com/).***
+
+#### ```REINCARNATED UCHIHA PROFILE VIEWS 🧚```
+![Visitor Count](https://profile-counter.glitch.me/saddemon1185/count.svg)
+
+
+## Pairing 2: Tapping on this link takes you straight to my website where you can chat to my customer bot service
+
+
+- ***`chat with customer service` by  [`WEBSITE LINK`](https://reincarnated-uchiha.odoo.com/).***
+- 
+HOW+TO+PAIR+NAUGHTY+MD+TO+YOUR+WHATSAPP+ACCOUNT
 
 - Then `Go-to WhatsApp > Three dots > Linked Devices`
    - You will get a session ID in your WhatsApp. Copy it.
@@ -43,7 +56,6 @@ Thanks to...
 * [`reincarnated uchiha`](https://github.com/saddemon1185) ***Author, Owner***
 
 
-
 * 
 
 ---
@@ -55,7 +67,7 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 ## License
 
-[MIT License](https://github.com/saddemon1185/naughty-md-GPT-AI/blob/main/LICENSE)
+[APACHE License](https://github.com/saddemon1185/naughty-md-GPT-AI/blob/main/LICENSE)
 
 Copyright (c) 2025 naughty-MD
 
