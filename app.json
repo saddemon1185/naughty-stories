@@ -1,0 +1,13 @@
+{
+  "name": "Naughty MD",
+  "description": "A WhatsApp Bot Created By reincarnated Uchiha ",
+  "logo": "https://i.imgur.com/BZwa9Tq.jpeg",
+  "keywords": ["bot", "WhatsApp", "JavaScript"],
+  "success_url": "/",
+  "stack": "heroku-24",
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ]
+}
