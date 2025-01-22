@@ -17,6 +17,8 @@ Our AI features use random APIs to run, so sometimes they may be down but they a
 
 ## SET-UP
 
+ **Get `SESSION ID` ON [`REPLIT`](https://replit.com/@saddemon1185/uchiha-md-pair)** 
+
 ## Fork:
 
 <h2 align="center">   
